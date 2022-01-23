@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello world, I'm Thilina 👋
+
+<img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 <!--
 **thilina-sanjeewa/thilina-sanjeewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
