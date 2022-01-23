@@ -1,8 +1,8 @@
-## Hello world, I'm Thilina 👋
+## Hello world, I'm Thilina 👨‍💻👋
 
 <img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/1.gif?raw=true" width="450" height="300"  />
 
-## mobile developer | UI/UX designer | freelancer | content writer
+## mobile developer | UI/UX designer | freelancer
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning software architect
 - 👯 I’m looking to collaborate on open source
