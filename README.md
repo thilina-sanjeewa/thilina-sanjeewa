@@ -7,7 +7,6 @@
 #### 🏠 freelancer
 #### 📋 content writer
 
-<p align="left"> <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/twitter/follow/___thilina?logo=twitter&style=for-the-badge" alt="___thilina" /></a> </p>
 
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning software architect
@@ -16,11 +15,16 @@
 - 😄 Pronouns: He/him
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me & follow me:</h3>
+<p align="center">
+  <p align="left"> <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/twitter/follow/___thilina?logo=twitter&style=for-the-badge" alt="___thilina" /></a> </p>
+  
 <a href="https://twitter.com/___thilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___thilina" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/thilinasanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilinasanjeewa" height="30" width="40" /></a>
+
 <a href="https://fb.com/thilina814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilina814" height="30" width="40" /></a>
+
 <a href="https://instagram.com/___thilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___thilina" height="30" width="40" /></a>
 </p>
 
