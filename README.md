@@ -17,7 +17,7 @@
 
 
 <h3 align="center">Connect with me & follow me:</h3>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<p align="center">  <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="lllllll"/></a></p>
 <p align="center">
   <p align="left"> <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/twitter/follow/___thilina?logo=twitter&style=for-the-badge" alt="___thilina" /></a> </p>
   <p align="center">
