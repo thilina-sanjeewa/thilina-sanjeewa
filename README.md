@@ -31,17 +31,11 @@
 ------
 
 <h3 align="center">Connect with me & follow me:</h3>
-<p align="center"><a href="https://www.facebook.com/thIlIna814/"  target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a> <a href=""https://www.linkedin.com/in/thilinasanjeewa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"/></a> <a href=""  target="blank"><img src="" alt=""/></a> <a href=""  target="blank"><img src="" alt=""/></a> <a href=""  target="blank"><img src="" alt=""/></a> <a href=""  target="blank"><img src="" alt=""/></a> <a href=""  target="blank"><img src="" alt=""/></a>     </p>
-<p align="center">
-  <p align="left"> <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/twitter/follow/___thilina?logo=twitter&style=for-the-badge" alt="___thilina" /></a> </p>
-  <p align="center">
-  <p align="left"> <a href="https://www.linkedin.com/in/thilinasanjeewa/" target="blank"><img src="https://img.shields.io/twitter/follow/___thilina?logo=twitter&style=for-the-badge" alt="___thilina" /></a> </p>
+<p align="center"><a href="https://www.facebook.com/thIlIna814/"  target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a> <a href=""https://www.linkedin.com/in/thilinasanjeewa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"/></a> <a href="https://instagram.com/___thilina"  target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a> <a href="https://twitter.com/___thilina"  target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a> <a href=""  target="blank"><img src="" alt=""/></a> <a href="https://stackoverflow.com/users/17919532/thilina-sanjeewa"  target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/></a> <a href=""  target="blank"><img src="" alt=""/></a>     </p>
+
   
-<a href="https://twitter.com/___thilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___thilina" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thilinasanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilinasanjeewa" height="30" width="40" /></a>
-<a href="https://fb.com/thilina814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilina814" height="30" width="40" /></a>
-<a href="https://instagram.com/___thilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___thilina" height="30" width="40" /></a>
-</p>
+  
+
 
  ---
  <h3 align="center">Github Statistics 📈</h3>
