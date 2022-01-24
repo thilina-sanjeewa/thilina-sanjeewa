@@ -16,6 +16,8 @@
 - 😄 Pronouns: He/him
 
 
+---
+
 <h3 align="center">Connect with me & follow me:</h3>
 <p align="center">  <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="lllllll"/></a></p>
 <p align="center">
@@ -29,10 +31,12 @@
 <a href="https://instagram.com/___thilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___thilina" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="center">Technologies & Tools 🔧</h3>
 <p align="center"><a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/></a> <a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a> <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/></a> <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/></a> <a><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/></a> <a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/></a> <a><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui"/></a> <a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a> <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/></a> <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a> <a><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd"/></a> <a><img src="" alt=""/></a> <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> </p>
 
---
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilina-sanjeewa&show_icons=true&locale=en&layout=compact" alt="thilina-sanjeewa" /></p>
 
