@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/5.gif?raw=true" width="450" height="300"  />
 
 ###   My name is Thilina Sanjeewa & I'm 👇 
-#### 👨‍💻 mobile developer  
+#### 👨‍💻 Mobile Developer  
 #### 🧑‍🎨 UI/UX designer 
-#### 🏠 freelancer
-#### 📋 content writer
+#### 🏠 Freelancer
+#### 📋 Content Writer
 
 
 - 🔭 I’m currently working on my blog.
