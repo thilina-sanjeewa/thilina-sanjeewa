@@ -1,6 +1,6 @@
-## Hello world, I'm Thilina & I'm 👇  
+## Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/1.gif?raw=true" width="450" height="300"  />
+<img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/wave.gif?raw=true" width="450" height="300"  />
 
 #### 👨‍💻 mobile developer  
 #### 🧑‍🎨 UI/UX designer 
