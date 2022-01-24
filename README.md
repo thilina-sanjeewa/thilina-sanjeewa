@@ -31,7 +31,7 @@
 ------
 
 <h3 align="center">Connect with me & follow me:</h3>
-<p align="center">  <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="lllllll"/></a></p>
+<p align="center">  <a href="https://www.facebook.com/thIlIna814/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a></p>
 <p align="center">
   <p align="left"> <a href="https://twitter.com/___thilina" target="blank"><img src="https://img.shields.io/twitter/follow/___thilina?logo=twitter&style=for-the-badge" alt="___thilina" /></a> </p>
   <p align="center">
