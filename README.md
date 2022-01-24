@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="center">Technologies & Tools 🔧</h3>
-<p align="center"><a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/></a> &nbsp;&nbsp;<a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/></a>  </p>
+<p align="center"><a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/></a> <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/></a>  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilina-sanjeewa&show_icons=true&locale=en&layout=compact" alt="thilina-sanjeewa" /></p>
 
