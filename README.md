@@ -15,7 +15,6 @@
 - 💬 Ask me about mobile development & ux design
 - 😄 Pronouns: He/him
 - 📫 How to reach me: say my name on GOOGLE 
-- ⚡ Fun fact: 
 
 ---
 
