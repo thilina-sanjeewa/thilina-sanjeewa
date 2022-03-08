@@ -7,6 +7,7 @@
 #### 🧑‍🎨 UI/UX designer 
 #### 🏠 Freelancer
 #### 📋 Content Writer
+#### 🎮 PC Gamer
 
 
 - 🔭 I’m currently working on my blog.
