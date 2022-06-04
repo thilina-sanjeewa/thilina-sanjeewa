@@ -1,4 +1,4 @@
-## Hello People On Github!!! <img src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/wave.gif" width="30px">
+## Hello People On Github!!! <img src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/wave.gif" height="30px" width="30px">
 
 <img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/5.gif?raw=true" width="450" height="300"  />
 
