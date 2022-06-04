@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/5.gif?raw=true" width="450" height="300"  />
 
-###   My name is Thilina Sanjeewa & I'm  <img src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/backhand.gif" height="30px"  width="20px">
+###   My name is Thilina Sanjeewa & I'm  <img src="https://github.com/thilina-sanjeewa/thilina-sanjeewa/blob/main/backhand.gif" height="20px"  width="20px">
 #### 👨‍💻 Mobile Developer  
 #### 🧑‍🎨 UI/UX designer 
 #### 🏠 Freelancer
