@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning software architect
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about mobile development & ux design
+- 💬 Ask me about mobile development & UX Design
 - 😄 Pronouns: He/him
 - 📫 How to reach me: say my name on GOOGLE 
 
